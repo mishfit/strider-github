@@ -22,8 +22,7 @@ describe('webhooks', function () {
             type: 'commit',
             author: {
               name: 'Jared Forsyth',
-              username: 'jaredly',
-              email: 'jared@jaredforsyth.com'
+              username: 'jaredly'
             },
             url: 'https://github.com/jaredly/django-colorfield/commit/5440158e185393ddedcabcbc615f574d10134cdb',
             message: 'adding mit license',
